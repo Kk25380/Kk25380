@@ -39,11 +39,10 @@
 
 ## 一些数字
 
-<p>  
-  <img src="https://github-readme-stats.vercel.app/api?username=Kk25380&show_icons=true&hide_border=true&title_color=3b5bfd&icon_color=3b5bfd" alt="GitHub stats" height="150" />  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kk25380&layout=compact&hide_border=true&title_color=3b5bfd&icon_color=3b5bfd" alt="Top languages" height="150" />  
-</p>
+![open issues](https://img.shields.io/github/issues/Kk25380/ai-memlint?style=flat-square&color=3b5bfd)
+
+![commits this year](https://img.shields.io/github/commit-activity/y/Kk25380/ai-memlint?style=flat-square&color=3b5bfd)
 
 <p>  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kk25380&bg_color=ffffff&color=3b5bfd&line=3b5bfd&point=3b5bfd&area=true&hide_border=true" alt="贡献图" />  
+  <img src="https://ghchart.rshah.org/Kk25380" alt="贡献图" />  
 </p>
